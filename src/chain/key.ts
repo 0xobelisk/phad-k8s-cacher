@@ -1,0 +1,2 @@
+export const PRIVATEKEY = '0x6db17ad51ca1d902ca94ece54093d4c54339999ffcdbfce062ba909bfae55da5';
+export const ACCOUNT = '0xf7c60f06f19a548f106ecba200f1488285da3bdd84d54faf494d0650f2249583';
